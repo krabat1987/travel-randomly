@@ -20,18 +20,20 @@ Rules
      sleep for the night)
    - every other untarred path or road.
 
-   You may use field paths to go to an interesting site or so, but make sure you
-   go on car friendly roads most of the time traveling.
+   You may use field paths to go to an interesting sight or so, but make sure
+   you go on car friendly roads most of the time traveling.
 
-1. Every morning when you start traveling, you roll a die (D20 or D10) which
-   approximate direction - north, south, west or east - you should go for the
-   first X kilometers (where X is between 25 and 100).
+1. Every morning when you start traveling, you roll a die (D20) to determine
+   which approximate direction - north, south, west or east - you should go for
+   the first X kilometers (where X is between 10 and 200).
 
    On a standard D20 the directions are coded as
    - north: 1 - 5
    - east:  6 - 10
    - south: 11 - 15
    - west:  16 - 20
+
+   To determine your X roll the D20 die and multiply the number by 10.
 
    Adapt them to your needs when using other dice, but make sure you get equal
    intervals.
@@ -60,7 +62,7 @@ Rules
 
 3. When you approach a city, not (small) village, you flip a coin. Head you go
    to the city, tail you try to avoid the city. No buts. Villages are always
-   visited. Also no buts.
+   visited. Also no buts. Within cities rule 2 is not applied. Go sightseeing!
 
 4. Make sure you know where you stay the night by 6 p.m.
 
