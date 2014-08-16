@@ -38,9 +38,11 @@ Rules
    Adapt them to your needs when using other dice, but make sure you get equal
    intervals.
 
-   After the first X kilometers, apply rules 2 and further. If you come to an
-   intersection and can't go straight on, roll a D6 die and exceptionally apply
-   rule 2.
+   After the first X kilometers, apply rules 2 and further.
+
+   If you come to an intersection and can't go straight on, apply rule 2.
+
+   If you come near a city within the first X kilometers apply rule 3.
 
 2. On every intersection you roll a normal D6 die and apply the following
    computation advices.
