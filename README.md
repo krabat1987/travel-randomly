@@ -38,11 +38,11 @@ Rules
    Adapt them to your needs when using other dice, but make sure you get equal
    intervals.
 
-   After the first X kilometers, apply rules 2 and further.
+   After the first X kilometers, apply rules 3 and further.
 
-   If you come to an intersection and can't go straight on, apply rule 2.
+   If you come to an intersection and can't go straight on, apply rule 3.
 
-   If you come near a city within the first X kilometers apply rule 3.
+   If you come near a city within the first X kilometers apply rule 4.
 
 2. On every intersection you roll a normal D6 die and apply the following
    computation advices.
@@ -64,7 +64,7 @@ Rules
 
 3. When you approach a city, not (small) village, you flip a coin. Head you go
    to the city, tail you try to avoid the city. No buts. Villages are always
-   visited. Also no buts. Within cities rule 2 is not applied. Go sightseeing!
+   visited. Also no buts. Within cities rule 3 is not applied. Go sightseeing!
 
 4. Make sure you know where you stay the night by 6 p.m.
 
